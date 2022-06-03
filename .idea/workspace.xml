@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="542c37c1-e2fe-4a1d-8786-f876fcb87611" name="Changes" comment="">
+    <list default="true" id="542c37c1-e2fe-4a1d-8786-f876fcb87611" name="Changes" comment="commit1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UdemyPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/UdemyPython.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello_World.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hello_World.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +72,14 @@
       <option name="presentableId" value="Default" />
       <updated>1653635015950</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1654265020209</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654265020209</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,5 +92,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <MESSAGE value="commit1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit1" />
   </component>
 </project>
